@@ -7,7 +7,7 @@
   export default {
     data() {
       return {
-        message: 'Hello World'
+        message: 'Hello world'
       }
     }
   }

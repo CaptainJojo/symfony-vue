@@ -3,6 +3,7 @@
     "@symfony/webpack-encore": "^0.17.1",
     "vue": "^2.5.13",
     "vue-loader": "^13.6.2",
+    "vue-server-renderer": "^2.5.13",
     "vue-template-compiler": "^2.5.13"
   }
 }
